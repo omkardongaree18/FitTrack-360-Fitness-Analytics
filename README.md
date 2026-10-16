@@ -197,24 +197,17 @@ Overall Workflow
 
 text
 Raw Fitbit Data
-      ↓ 
-      
+      ↓  
 Power Query
-      ↓
-      
+      ↓ 
 Data Cleaning & Transformation
-      ↓
-      
+      ↓ 
 Data Modeling
-      ↓
-      
+      ↓  
 Relationships
-      ↓
-      
+      ↓  
 DAX Measures
-      ↓
-      
+      ↓ 
 Visualizations
       ↓
-      
 Interactive Dashboard
